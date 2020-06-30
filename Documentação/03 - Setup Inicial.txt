@@ -1,0 +1,13 @@
+Criado O Model Fornecedor
+Criado o Context
+
+setado a connectionstring no Setup.cs
+
+setado o DbSet<Fornecedor> no contexto
+
+gerado a migration no console
+
+Add-Migration Initial 
+
+Após criar a Micration, criar o banco
+update-database

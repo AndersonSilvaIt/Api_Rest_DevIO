@@ -1,0 +1,7 @@
+entrar na pasta que será criado o projeto com o cmd
+
+dotnet new webapi -n MinhaPrimeiraApi
+-n => nome do projeto
+
+para abrir o projeto no vscode, basta rodar o comando code . 
+
